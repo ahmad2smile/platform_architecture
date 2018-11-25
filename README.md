@@ -28,4 +28,6 @@ Examples are WIP. Links will be posted here.
 
 A Xamarin Framework and a React App implementation is underway but its core concept looks something like following,
 
-![Example Illustration](illustrations/ScreenShot2018-06-27at1_13_36PM.png)
+<p align="center">
+  <img src="illustrations/ScreenShot2018-06-27at1_13_36PM.png" width="600">
+</p>
