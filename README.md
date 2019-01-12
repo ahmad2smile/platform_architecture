@@ -1,5 +1,7 @@
 # Platform Architecture
 
+<i>v. Alpha 0.0.1</i>
+
 ## Intro
 
 Platform based architecture is a solution to boilerplate in our projects.
