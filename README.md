@@ -26,7 +26,8 @@ The main concept of this setup is that the Platform is the endpoint. It generate
 
 ## Examples
 
-Examples are WIP. Links will be posted here.
+1. [React Platform](https://github.com/ahmad2smile/react-platform)
+2. Xamarin Platform (TODO)
 
 A Xamarin Framework and a React App implementation is underway but its core concept looks something like following,
 
